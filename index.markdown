@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+Welcome! The thirteenth annual meeting of California Universities Semantics and Pragmatics will take place on May 6th, 2022 at UCLA.
+
+More info will be made available soon. In the meantime, questions may be directed to [cuspucla@gmail.com](mailto:cuspucla@gmail.com "Email the CUSP-13 organizers").
