@@ -21,7 +21,7 @@
 title: CUSP-13 @ UCLA
 email: cuspucla@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  The website for the 13th annual California Universities Semantics and Pragmatics workshop.
+  Website for the 13th California Universities Semantics and Pragmatics workshop.
 baseurl: "/cusp13" # the subpath of your site, e.g. /blog
 url: "cuspconf.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: cuspconf
