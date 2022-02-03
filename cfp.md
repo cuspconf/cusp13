@@ -4,7 +4,7 @@ title: Call for Papers
 permalink: /cfp/
 ---
 
-The [thirteenth]("cuspconf.github.io/cusp13 "CUSP-13") annual meeting of [California Universities Semantics and Pragmatics](cuspconf.github.io "CUSP") (CUSP) will take place at UCLA on **May 6, 2022**. The meeting will, as always, be a friendly and informal venue for graduate students to present their work. We invite submissions of abstracts for talks on any topics under the umbrella of semantics and pragmatics. There will be no formal review process, and we hope to accept as close to 100% of appropriate submissions as possible, volume permitting.
+The [thirteenth](/cusp13 "CUSP-13") annual meeting of [California Universities Semantics and Pragmatics](/ "CUSP") (CUSP) will take place at UCLA on **May 6, 2022**. The meeting will, as always, be a friendly and informal venue for graduate students to present their work. We invite submissions of abstracts for talks on any topics under the umbrella of semantics and pragmatics. There will be no formal review process, and we hope to accept as close to 100% of appropriate submissions as possible, volume permitting.
 
 The abstract submission deadline is Monday, **March 21, 2022**.
 

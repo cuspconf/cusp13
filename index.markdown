@@ -5,8 +5,8 @@
 layout: home
 ---
 
-Welcome! The thirteenth annual meeting of [California Universities Semantics and Pragmatics](https://cuspconf.github.io "The official home of CUSP") will take place on May 6th, 2022 at UCLA.
+Welcome! The thirteenth annual meeting of [California Universities Semantics and Pragmatics](/ "The official home of CUSP") will take place on May 6th, 2022 at UCLA.
 
-- The [Call for Papers](cuspconf.github.io/cusp13/cfp/ "CUSP-13 Call for Papers") is now out.
+- The [Call for Papers](/cfp/ "CUSP-13 Call for Papers") is now out.
 - More details about the workshop, as well as registration, will be made available soon.
 - Any further questions may be directed to [cuspucla@gmail.com](mailto:cuspucla@gmail.com "Email the CUSP-13 organizers").
