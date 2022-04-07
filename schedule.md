@@ -6,6 +6,8 @@ permalink: /schedule/
 
 The [thirteenth](/cusp13 "CUSP-13") annual meeting of [California Universities Semantics and Pragmatics](/ "CUSP") (CUSP) will take place at the Bruin Viewpoint Room in the Ackerman Union at UCLA on **May 6, 2022**.
 
+Each presentation will consist of a 20 minute talk, along with a 10 minute period for questions.
+
 | Session |   Time  | Presentation                                                                                                                                  |
 |:-------:|:-------:|-----------------------------------------------------------------------------------------------------------------------------------------------|
 |    1    |  8:45am | Modeling the context dependence of artifact nouns<br>_Brandon Waldon, Cleo Condoravdi, Beth Levin & Judith Degen (Stanford)_                    |
