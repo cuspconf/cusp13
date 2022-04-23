@@ -24,7 +24,7 @@ Each presentation will consist of a 20 minute talk, along with a 10 minute perio
 |         |  2:30pm | The Function of Accented Pronouns<br>_Milad Mayel (USCD)_                                                                                       |
 |         |   3pm   | Disagreeing About “Might”<br>_Patrick Skeels (UC Davis)_                                                                                        |
 |         |  3:30pm | Coffee break                                                                                                                                  |
-|    4    |  3:45pm | Towards a semantics of Atchan relative clauses<br>_Rebecca Jarvis (UC Berkeley)_                                                                |
+|    4    |  3:45pm | A low relative future marker in Atchan<br>_Rebecca Jarvis (UC Berkeley)_                                                                |
 |         |  4:15pm | Deixis & Restrictive Modification<br>_Eli Sharf (UC Santa Cruz)_                                                                                |
 |         |  4:45pm | Deriving “restrictive” interpretations for clarificatory nominal appositives<br>_John Duff (UC Santa Cruz)_                                     |
 |         |  5:15pm | Discourse and Projection Properties of Nonrestrictive Adjectives<br>_Kalen Chang (UCLA)_                                                        |
