@@ -16,11 +16,10 @@
           </span>
         </label>
 
-        
 
         <div class="trigger">
 <!-- current CUSP link hardcoded below as first item in site-nav --mncz -->
-        <a class="page-link" href="https://cuspconf.github.io">CUSP Home</a>&nbsp &nbsp &nbsp
+        <a class="page-link" href="https://cuspconf.github.io">CUSP Home</a>
 <!-- begin autopopulate by site.pages -- mncz -->
           {%- for path in page_paths -%}
             {%- assign my_page = site.pages | where: "path", path | first -%}
