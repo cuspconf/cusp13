@@ -10,7 +10,7 @@ Each presentation will consist of a 20 minute talk, along with a 10 minute perio
 
 | Session |   Time  | Presentation                                                                                                                                  |
 |:-------:|:-------:|-----------------------------------------------------------------------------------------------------------------------------------------------|
-|    1    |  8:45am | [Modeling the context dependence of artifact nouns](/abstracts/waldon.pdf)<br>_Brandon Waldon, Cleo Condoravdi, Beth Levin & Judith Degen_ (Stanford)                    |
+|    1    |  8:45am | [Modeling the context dependence of artifact nouns](/abstracts/waldon.pdf)<br>_Brandon Waldon, Cleo Condoravdi, Beth Levin & Judith Degen (Stanford)_                    |
 |         |  9:15am | [On precisifiers](/abstracts/sapir-woodnutt.pdf)<br>_Yasha Sapir & Adam Woodnutt (USC)_                                                                                          |
 |         |  9:45am | [There is no MEAS, only MUCH: the case of 3kg of NP](/abstracts/toquero-perez.pdf)<br>_Luis Miguel Toquero-Pérez (USC)_                                                         |
 |         | 10:15am | [_Occasional_-type frequency adjectives: pluractionality and stages](/abstracts/sant-ramchand.pdf)<br>_Charlotte Sant & Gillian Ramchand (UiT The Arctic University of Norway)_ |
