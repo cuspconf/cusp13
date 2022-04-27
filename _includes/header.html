@@ -16,9 +16,15 @@
           </span>
         </label>
 
+        <style type="text/css" media="screen">
+          a:link {
+            color: black;
+          }
+        </style>
+
         <div class="trigger">
 <!-- current CUSP link hardcoded below as first item in site-nav --mncz -->
-        <a href="https://cuspconf.github.io" style="color:#FFFFFF;">CUSP Home</a>&nbsp &nbsp &nbsp
+        <a href="https://cuspconf.github.io" style="a:link{color:#FFFFFF;}">CUSP Home</a>&nbsp &nbsp &nbsp
 <!-- begin autopopulate by site.pages -- mncz -->
           {%- for path in page_paths -%}
             {%- assign my_page = site.pages | where: "path", path | first -%}
