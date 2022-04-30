@@ -28,3 +28,4 @@ Each presentation will consist of a 20 minute talk, along with a 10 minute perio
 |         |  4:15pm | [Deixis & Restrictive Modification](/abstracts/sharf.pdf)<br>_Eli Sharf (UC Santa Cruz)_                                                                                |
 |         |  4:45pm | [Deriving “restrictive” interpretations for clarificatory nominal appositives](/abstracts/duff.pdf)<br>_John Duff (UC Santa Cruz)_                                     |
 |         |  5:15pm | [Discourse and Projection Properties of Nonrestrictive Adjectives](/abstracts/chang.pdf)<br>_Kalen Chang (UCLA)_                                                        |
+| | 6:30pm | _Dinner at Barney's Beanery_<br>_(at your own expense)_ |
